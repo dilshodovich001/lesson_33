@@ -9,6 +9,6 @@ public class Main {
             }
         }
 
-        System.out.println("sdfdfbfdsfvfdewdfdvf");
+        System.out.println("nima bunaqa narsa yozgansan ");
     }
 }
